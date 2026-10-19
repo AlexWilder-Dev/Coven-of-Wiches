@@ -2,7 +2,7 @@
 
 A speculative site for THE COVEN of WICHES, Chef Annabelle Clarke's vegan sandwich restaurant and bar at 14D Market Row, Brixton Village.
 
-Live: https://alexwilder-dev.github.io/coven-of-wiches/
+Live: https://alexwilder-dev.github.io/Coven-of-Wiches/
 
 The site does three jobs. It puts the weekly board, with prices, one tap from Google. It gets people to a unit inside a market. And after 5pm on Wednesday to Saturday it leads with the bar.
 

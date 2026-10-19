@@ -39,7 +39,7 @@ Photos and the logo are the Coven's own. The originals, and the research behind 
 
 ## Deploying
 
-`.github/workflows/deploy.yml` builds and publishes to GitHub Pages on every push to `main`. In the repo settings, set Pages → Source to "GitHub Actions".
+`.github/workflows/deploy.yml` builds and publishes to GitHub Pages on every push to the repo's default branch. In the repo settings, Pages → Source is "GitHub Actions".
 
 Built with Vite, React, TypeScript and Framer Motion.
 
